@@ -15,6 +15,8 @@ Furthermore, I would like to deliver something concrete, either production
 level code in open source projects, or creating a small/proof-of-concept
 project of my own.
 
+Check out my weekly updates in this repo.
+
 ## Project Ideas
 Production Projects:
 - Trin
